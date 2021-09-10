@@ -1,0 +1,17 @@
+.div1class {
+    color: rgb(54, 11, 104);
+font-family: initial;
+text-align: center;
+border: lightsteelblue;
+border-width: thick;
+border-style:dotted;
+}
+
+#div2id {
+    background-color: navajowhite;
+}
+#table{
+    border-style: double;
+    border-width: 15px;
+    color: orchid;
+}
